@@ -1,1 +1,4 @@
 # FutureMakers2022
+This GitHub repository is dedicated to showcasing my journey as a participant in the MIT FutureMakers program on the AI/Deep Learning track. Within this repository, you'll find a collection of projects and assignments that I completed during the program. These projects highlight my progress and reflect the hands-on experience gained throughout the track.
+
+As the culmination of the MIT FutureMakers AI/Deep Learning track, my team and I developed an final project called PolitiParser. PolitiParser is a deep learning model that leverages natural language processing techniques to analyze political speeches and extract key information, namely where it falls on the political spectrum. You can find the code and details of the project in our dedicated repository: PolitiParser (https://github.com/FutureMakers2022Team13/PolitiParser)
